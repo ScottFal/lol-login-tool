@@ -1,6 +1,6 @@
 # League of Legends Login
 
-This is a Python script for automating the login process for League of Legends. It allows users to select an account from a list and automatically log in to the League of Legends client.
+This is a Python script for automating the login process for League of Legends. It allows users to select an account from a simple GUI and automatically log in to the League of Legends client.
 
 ## Requirements
 
