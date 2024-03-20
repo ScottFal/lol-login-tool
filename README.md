@@ -6,11 +6,10 @@ This is a Python script for automating the login process for League of Legends. 
 
 - Python 3.x
 - Required Python libraries (install using `pip install [library_name]`):
-  - `pyautogui`
-  - `keyboard`
-  - `pygetwindow`
-  - `requests`
-  - `tkinter`
+- keyboard==0.13.5
+- PyAutoGUI==0.9.53
+- PyGetWindow==0.0.9
+
 
 ## Usage
 
@@ -31,8 +30,7 @@ pip install -r requirements.txt
       "username": "your_username",
       "password": "your_password"
     },
-    ...
   }
 }
-
+```
 Run the main.py script
