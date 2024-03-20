@@ -29,7 +29,7 @@ pip install -r requirements.txt
     "username2": {
       "username": "your_username",
       "password": "your_password"
-    },
+    }
   }
 }
 ```
