@@ -33,4 +33,5 @@ pip install -r requirements.txt
   }
 }
 ```
-Run the main.py script
+change the path to your correct client path line 8 in main.py (leagueClientPath)
+Run the main.py, select the account, and press enter on the username box on the client
